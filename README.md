@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TPDooley
+- 👋 Hi, I’m @Mae-Dooley
 - 👀 I’m interested in neural networks and machine learning, as well as learning new frameworks for web development.
 - 🌱 I’m currently learning nodejs and React.
 <!---
