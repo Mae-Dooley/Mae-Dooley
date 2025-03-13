@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mae-Dooley
-- 👀 I’m interested in neural networks and machine learning, as well as learning new frameworks for web development. I also am interested in game design!
+- 👀 I’m interested in neural networks and machine learning, as well as learning about and simulating natural phenomena in code. I also am interested in game design!
 - 🌱 I’m currently learning C# in Unity.
 <!---
 - 💞️ I’m looking to collaborate on ...
